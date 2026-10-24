@@ -51,6 +51,18 @@ A SQL project based on hospital management data.
 - NULLIF() for Handling Zero Values
 - CSV Data Import using COPY
 
+  # 3. 🚕 Ola Ride Booking & Analysis
+A MySQL project focused on analyzing Ola ride booking data, cancellations, customer ratings, vehicle performance, and revenue.
+Key Concepts:
+- Aggregate Functions (SUM, AVG, COUNT)
+- GROUP BY, ORDER BY & LIMIT
+- Views (CREATE VIEW)
+- Ride Cancellation Analysis
+- Customer & Driver Rating Analysis
+- Revenue Analysis
+- Payment Method Analysis
+- Incomplete Ride Analysis
+
 # 🎯 Purpose
 
 The purpose of these projects is to demonstrate my practical SQL skills and my ability to analyze datasets and extract useful insights using PostgreSQL.
