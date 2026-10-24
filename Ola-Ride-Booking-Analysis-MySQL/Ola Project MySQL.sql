@@ -1,3 +1,4 @@
+CREATE DATABASE Ola;
 Use ola;
 
 #1. Retrieve all successful bookings:
